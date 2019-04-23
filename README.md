@@ -12,7 +12,11 @@ https://github.com/linuxserver/docker-radarr
 
 as folder structure, it uses:
 
-
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
 |- /volume1/torrent/transmission    | to save Transmission's configuration  |
 |- /volume1/torrent/data            | Transmission's download folder        |
