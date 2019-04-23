@@ -4,10 +4,10 @@ Docker-compose to run jackett, sonarr and radarr using the same network than tra
 
 This docker-compose file is based in:
 
-https://github.com/haugene/docker-transmission-openvpn
-https://github.com/linuxserver/docker-jackett
-https://github.com/linuxserver/docker-sonarr
-https://github.com/linuxserver/docker-radarr
+https://github.com/haugene/docker-transmission-openvpn <br/>
+https://github.com/linuxserver/docker-jackett <br/>
+https://github.com/linuxserver/docker-sonarr <br/>
+https://github.com/linuxserver/docker-radarr <br/>
 
 
 as folder structure, it uses:
