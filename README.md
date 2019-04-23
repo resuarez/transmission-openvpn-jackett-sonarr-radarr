@@ -20,22 +20,22 @@ as folder structure, it uses:
         <td>/volume1/torrent/data</td><td>Transmission's download folder</td>
     </tr>
     <tr>
-        <td>/volume1/torrent:/config<td>to save Jackett configuration </td>
+        <td>/volume1/torrent<td>to save Jackett configuration </td>
     </tr>
     <tr>
-        <td>/volume1/torrent/sonarr:/config</td><td>to save Sonarr's configuration</td>
+        <td>/volume1/torrent/sonarr</td><td>to save Sonarr's configuration</td>
     </tr>
     <tr>
-        <td>/volume1/torrent/radarr:/config</td><td>to save Radarr's configuration</td>
+        <td>/volume1/torrent/radarr</td><td>to save Radarr's configuration</td>
     </tr>
     <tr>
-        <td>/volume1/movies:/movies</td><td>Movies folder</td>
+        <td>/volume1/movies</td><td>Movies folder</td>
     </tr>
     <tr>
-        <td>/volume1/shows:/tv</td><td>TV Shows folder</td>
+        <td>/volume1/shows</td><td>TV Shows folder</td>
     </tr>
     <tr>
-        <td>/volume1/anime:/anime</td><td>Anime folder.</td>
+        <td>/volume1/anime</td><td>Anime folder.</td>
     </tr>
 </table>
 
