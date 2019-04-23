@@ -14,19 +14,30 @@ as folder structure, it uses:
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>/volume1/torrent/transmission</td><td>to save Transmission's configuration</td>
+    </tr>
+    <tr>
+        <td>/volume1/torrent/data</td><td>Transmission's download folder</td>
+    </tr>
+        <tr>
+        <td></td>/volume1/torrent/jackett<td>to save Jackett configuration </td>
+    </tr>
+    <tr>
+        <td>/volume1/torrent/sonarr</td><td>to save Sonarr's configuration</td>
+    </tr>
+    <tr>
+        <td>/volume1/torrent/radarr</td><td>to save Radarr's configuration</td>
+    </tr>
+    <tr>
+        <td>/volume1/movies:/movies</td><td>Movies folder</td>
+    </tr>
+    <tr>
+        <td>/volume1/shows:/tv</td><td>TV Shows folder</td>
+    </tr>
+    <tr>
+        <td>/volume1/anime:/anime</td><td>Anime folder.</td>
     </tr>
 </table>
-
-|- /volume1/torrent/transmission    | to save Transmission's configuration  |
-|- /volume1/torrent/data            | Transmission's download folder        |
-|- /volume1/torrent/jackett         | to save Jackett configuration         |
-|- /volume1/torrent/sonarr          | to save Sonarr's configuration        |
-|- /volume1/torrent/radarr          | to save Radarr's configuration        |
-|- /volume1/movies:/movies          | Movies folder                         |
-|- /volume1/shows:/tv               | TV Shows folder                       |
-|- /volume1/anime:/anime            | Anime folder.                         |
-
 
 The PGID and PUID should be actived user in the host.
 
