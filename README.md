@@ -19,8 +19,8 @@ as folder structure, it uses:
     <tr>
         <td>/volume1/torrent/data</td><td>Transmission's download folder</td>
     </tr>
-        <tr>
-        <td></td>/volume1/torrent/jackett<td>to save Jackett configuration </td>
+    <tr>
+        <td>/volume1/torrent/jackett<td>to save Jackett configuration </td>
     </tr>
     <tr>
         <td>/volume1/torrent/sonarr</td><td>to save Sonarr's configuration</td>
