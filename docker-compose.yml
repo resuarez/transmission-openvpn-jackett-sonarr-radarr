@@ -28,7 +28,7 @@ services:
     - OPENVPN_USERNAME=user
     - OPENVPN_PASSWORD=pass
     - OPENVPN_OPTS=--inactive 3600 --ping 10 --ping-exit 60
-    - OPENVPN_CONFIG=ipvanish-CA-Montreal-yul-c01,ipvanish-CA-Montreal-yul-c02,ipvanish-CA-Montreal-yul-c03,ipvanish-CA-Montreal-yul-c04,ipvanish-CA-Montreal-yul-c05
+    - OPENVPN_CONFIG=ipvanish-CA-Montreal-yul-c03,ipvanish-CA-Montreal-yul-c04,ipvanish-CA-Montreal-yul-c05
     - LOCAL_NETWORK=192.168.0.0/24
     - TRANSMISSION_WEB_UI=transmission-web-control
     - TRANSMISSION_RATIO_LIMIT=0
