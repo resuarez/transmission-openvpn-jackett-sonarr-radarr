@@ -39,5 +39,5 @@ as folder structure, it uses:
     </tr>
 </table>
 
-The PGID and PUID should be actived user in the host.
+The PGID and PUID should be actived user in the host.  And the folders should have the permission for that user too.
 
