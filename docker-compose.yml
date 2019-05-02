@@ -31,7 +31,7 @@ services:
     - OPENVPN_CONFIG=ipvanish-CA-Montreal-yul-c03,ipvanish-CA-Montreal-yul-c04,ipvanish-CA-Montreal-yul-c05
     - LOCAL_NETWORK=192.168.0.0/24
     - TRANSMISSION_WEB_UI=transmission-web-control
-    - TRANSMISSION_RATIO_LIMIT=0
+    - TRANSMISSION_RATIO_LIMIT=1
     - TRANSMISSION_RATIO_LIMIT_ENABLED=true
     - TRANSMISSION_QUEUE_STALLED_MINUTES=30
     - TRANSMISSION_QUEUE_STALLED_ENABLED=true
